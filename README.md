@@ -16,5 +16,4 @@ The primary objective of our system is to detect and classify food items accurat
 ![image](https://github.com/Nagaraj-Sunagar/Mitahari/assets/93957959/43735e65-186b-49af-bb7d-fe30b7215994)
 
 ## Implementation 
-![image](https://github.com/Nagaraj-Sunagar/Mitahari/assets/93957959/1d651a82-2585-4276-9f1c-b7bce413758c)
-![image](https://github.com/Nagaraj-Sunagar/Mitahari/assets/93957959/d71a3caf-484f-499c-b9f7-73a68fa12b76)
+
